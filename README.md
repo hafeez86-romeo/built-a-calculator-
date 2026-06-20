@@ -1,1 +1,4 @@
-# built-a-calculator-
+🧮 Calculator Application is an electronic or software-based device used to perform mathematical calculations quickly and accurately. It is used for basic arithmetic operations such as addition, subtraction, multiplication, and division. Advanced calculators can perform scientific operations like trigonometric functions, logarithms, square roots, and powers.
+
+Calculators are widely used in education, engineering, business, and daily life to reduce manual calculation effort and improve accuracy. Modern calculators can be developed as desktop applications, mobile applications, and web applications using programming languages like C, Java, Python, and JavaScript.
+AUOTHER: sk hafeez 
